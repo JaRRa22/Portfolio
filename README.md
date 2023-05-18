@@ -1,2 +1,2 @@
-# Bienvenido al repositorio de mi _portafolio_. 
+# Bienvenido al repositorio de mi _portfolio_. 
 
